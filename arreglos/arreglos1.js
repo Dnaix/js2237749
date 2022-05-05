@@ -1,0 +1,1 @@
+console.log("trabajo con /n arreglos") 
